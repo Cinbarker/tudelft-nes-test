@@ -1256,6 +1256,7 @@ checksum = "5be21190ff5d38e8b4a2d3b6a3ae57f612cc39c96e83cedeaf7abc338a8bac4a"
 [[package]]
 name = "tudelft-nes-ppu"
 version = "2.1.0"
+source = "git+https://github.com/Cinbarker/tudelft-nes-ppu.git#96ab5f119d9c3212102148739bd2446599ad382d"
 dependencies = [
  "itertools",
  "log",
